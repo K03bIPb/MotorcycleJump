@@ -3,30 +3,30 @@
 Для визуализации игры был использован игровой движок UnrealEngine 5.
 
 ## Реализация игры на python
-Код реализации находиться в папке `FromBasicToPython`
 
 ### Запуск игры на windows
 Проект был разработан в среде разработки PyCharm.
 Запуск на windows производился через терминал в PyCharm.
 
-  ![win](https://github.com/AzeePoDz/kis-crossplatform/blob/main/workphotos/windowswork.PNG?raw=true)
+ ![Win](https://github.com/K03bIPb/MotorcycleJump/blob/main/Windows.png)
+
 
 ### Запуск игры на linux
 Запуск на linux был произведен с помощью онлайн компилятора "onlinegdb".
   
-  ![lin](https://github.com/AzeePoDz/kis-crossplatform/blob/main/workphotos/linuxwork.PNG)
+  ![lin](https://github.com/K03bIPb/MotorcycleJump/blob/main/Linux.png)
  
  ### Запуск игры на web
  На web код на python был перенесен с помощью "pyscript".
  
-  ![web](https://github.com/AzeePoDz/kis-crossplatform/blob/main/workphotos/webwrk.PNG)
+  ![web](https://github.com/K03bIPb/MotorcycleJump/blob/main/Web.png)
   
-## Визуализация игры на движке Unreal engine 4
+## Визуализация игры на движке Unreal engine 5
 
 ### Запуск визуализации на windows
 
 Игра выгружается с движка и запускается через .exe файл.
-Готовая игра не была выгружена на githab в связи с большим весом файлов.
+Готовая игра не была выгружена на github в связи с большим весом файлов.
 
   ![ue4check](https://github.com/AzeePoDz/kis-crossplatform/blob/main/workphotos/ue4check.PNG)
 
