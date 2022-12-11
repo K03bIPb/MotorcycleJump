@@ -28,46 +28,32 @@
 Игра выгружается с движка и запускается через .exe файл.
 Готовая игра не была выгружена на github в связи с большим весом файлов.
 
-  ![ue4check](https://github.com/AzeePoDz/kis-crossplatform/blob/main/workphotos/ue4check.PNG)
+  ![ue5build](https://github.com/K03bIPb/MotorcycleJump/blob/main/Unreal%20Engine%205/Build.png)
 
 На рисунках ниже продемонстрированы запуск и работа игры на windows.
 
-Запуск игры, начать игру можно при нажатии на кнопку play
+Первый этап игры — выбор количество автобусов, через которые нужно прыгать
 
-  ![win1](https://github.com/AzeePoDz/kis-crossplatform/blob/main/workphotos/uewinstrat.PNG)
+  ![busses1](https://github.com/K03bIPb/MotorcycleJump/blob/main/Unreal%20Engine%205/Gameplay/Busses1.png)
+  ![busses2](https://github.com/K03bIPb/MotorcycleJump/blob/main/Unreal%20Engine%205/Gameplay/Busses2.png)
+  ![busses3](https://github.com/K03bIPb/MotorcycleJump/blob/main/Unreal%20Engine%205/Gameplay/Busses3.png)
 
-Правила игры сделаны вместо начального вывода оригинальной игры.
+Второй этап игры — выбор угла рампы, на которой гонщик поднимется в воздух
 
-  ![win2](https://github.com/AzeePoDz/kis-crossplatform/blob/main/workphotos/uewinrules.PNG)
+  ![ramp1](https://github.com/K03bIPb/MotorcycleJump/blob/main/Unreal%20Engine%205/Gameplay/Ramp1.png)
+  ![ramp2](https://github.com/K03bIPb/MotorcycleJump/blob/main/Unreal%20Engine%205/Gameplay/Ramp2.png)
   
-Выбор суммы для ставки.
-
-  ![win3](https://github.com/AzeePoDz/kis-crossplatform/blob/main/workphotos/uewinmoney.PNG)
-
-Демонстрация игры.
-
-  ![win4](https://github.com/AzeePoDz/kis-crossplatform/blob/main/workphotos/uewingame.PNG)
   
-Окно выигрыша.
+Третий этап игры — выбор скорости гонщика, с которой тот начнет перепрыгивать автобусы
+
+  ![rider1](https://github.com/K03bIPb/MotorcycleJump/blob/main/Unreal%20Engine%205/Gameplay/Rider1.png)
+  ![rider2](https://github.com/K03bIPb/MotorcycleJump/blob/main/Unreal%20Engine%205/Gameplay/Rider2.png)
+
+Далее идет процесс перепрыгивания. Успех или неудача зависят от трех предыдущих параметров — кол-во автобусов, угол рампы и скорость гонщика.
+
+  ![jump](https://github.com/K03bIPb/MotorcycleJump/blob/main/Unreal%20Engine%205/Gameplay/Rider3.png)
   
-  ![win5](https://github.com/AzeePoDz/kis-crossplatform/blob/main/workphotos/uewinwin.PNG)
-  
-Окно завершения игры в случае проигрыша всех денег.
-  
-  ![win6](https://github.com/AzeePoDz/kis-crossplatform/blob/main/workphotos/uewinlose.PNG)
+В случае победы или поражения перед нами появится соответствующее окно, с последующим затемнением экрана и перезапуском уровня. 
 
-### Запуск визуализации на linux
-
-Запуск игры на linux был проверен с помощью виртуальной машины VirtualBox с дистрибутивом Mint.
-
-  ![lin1](https://github.com/AzeePoDz/kis-crossplatform/blob/main/workphotos/uelin.PNG)
-  
-### Запуск визуализации на web
-
-Запуск сервера.
-
-  ![server](https://github.com/AzeePoDz/kis-crossplatform/blob/main/workphotos/server.PNG)
-  
-Запуск в браузере.
-
-  ![web1](https://github.com/AzeePoDz/kis-crossplatform/blob/main/workphotos/ueweb.PNG)
+![win](https://github.com/K03bIPb/MotorcycleJump/blob/main/Unreal%20Engine%205/Gameplay/Win.png)
+![lose](https://github.com/K03bIPb/MotorcycleJump/blob/main/Unreal%20Engine%205/Gameplay/Lose.png)
